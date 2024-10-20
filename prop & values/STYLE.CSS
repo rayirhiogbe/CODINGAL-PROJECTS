@@ -1,0 +1,22 @@
+.css1{
+    color: blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 10000;
+    border: SOLID RED 3PX;
+    border-radius: 5px;
+    
+}
+.css2{
+color: brown;
+font-style: italic;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 100;
+border:dashed green 3px;
+border-radius: 5px;
+}
+#para{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 900;
+    border: ridge blue 3px;
+}
